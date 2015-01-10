@@ -10,7 +10,6 @@
             <objects>
                 <controller id="AgC-eL-Hgc" customClass="InterfaceController">
                     <items>
-                        <label width="136" height="56" alignment="left" text="Label" id="cu0-ls-sDP"/>
                         <imageView alignment="left" id="On7-1x-NOA"/>
                     </items>
                     <connections>

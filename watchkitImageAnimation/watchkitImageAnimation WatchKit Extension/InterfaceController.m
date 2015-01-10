@@ -12,6 +12,7 @@
 @interface InterfaceController()
 @property (weak, nonatomic) IBOutlet WKInterfaceImage *imgSpriteAnimation;
 
+
 @end
 
 
